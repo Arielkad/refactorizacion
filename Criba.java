@@ -33,7 +33,7 @@ public class Criba
 					cuenta++;
 			}
 		
-			int [] primos = new [cuenta];
+			int [] primos = new int[cuenta];
 		
 			for(i=0; j=0; i<dim; i++)
 			{
